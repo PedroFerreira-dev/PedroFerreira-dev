@@ -2,7 +2,6 @@
 
 Diretamente de Guarulhos (SP) 🇧🇷. Sou estudante de tecnologia, apaixonado por resolver problemas através de código, e nas horas vagas também sou um entusiasta de investimentos. 
 
-Sobrevivendo bravamente a cada semestre entre as provas A1 e A2 da faculdade, troquei o vulgo de "Zeca xavoso" por um perfil 100% focado em commits e clean code! 
 
 ### 💻 Projetos em Destaque
 
