@@ -38,3 +38,11 @@ Sobrevivendo bravamente a cada semestre entre as provas A1 e A2 da faculdade, tr
 
 * Se meu código compila de primeira, eu desconfio.
 * Acredito que tudo fica melhor containerizado.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroFerreira-dev/PedroFerreira-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroFerreira-dev/PedroFerreira-dev/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/PedroFerreira-dev/PedroFerreira-dev/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
