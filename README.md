@@ -36,7 +36,7 @@ Diretamente de Guarulhos (SP) 🇧🇷. Sou estudante de ADS, apaixonado por tec
 ### ⚡ Curiosidades
 
 * Se meu código compila de primeira, eu desconfio.
-* Acredito que tudo fica melhor containerizado.
+* Demorei para realmente gostar de programação.
 
 <div align="center">
   <picture>
@@ -45,3 +45,10 @@ Diretamente de Guarulhos (SP) 🇧🇷. Sou estudante de ADS, apaixonado por tec
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/PedroFerreira-dev/PedroFerreira-dev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+---
+
+### 📫 Como me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroferreira-dev)
+![Discord](https://img.shields.io/badge/pedroferreira__dev-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
