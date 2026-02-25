@@ -1,6 +1,6 @@
 # Olá, mundo! Eu sou o Pedro Ferreira 👋😎
 
-Diretamente de Guarulhos (SP) 🇧🇷. Sou estudante de tecnologia, apaixonado por resolver problemas através de código, e nas horas vagas também sou um entusiasta de investimentos. 
+Diretamente de Guarulhos (SP) 🇧🇷. Sou estudante de ADS, apaixonado por tecnologias e programação depois de muito sofrimento rs, e nas horas vagas também sou um entusiasta de investimentos📈👨🏾‍💻. 
 
 
 ### 💻 Projetos em Destaque
